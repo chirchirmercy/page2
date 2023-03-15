@@ -1,0 +1,275 @@
+
+
+body{
+    height: 3000px;
+    
+}
+
+
+.A{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 300PX;
+    margin-right: 300PX;
+    margin-top: 100px;
+    
+}
+#brick{
+    padding-right: 40px;
+    padding-left: 10px;
+}
+.B{
+  display: flex; 
+  margin-top: 20px; 
+  background-color: yellow;
+}
+.pic{
+width: 30px;
+height: 30px;
+margin-left: 40px;
+background-color: blue;
+}
+.icon{
+    justify-content: space-between;
+    margin-left: 600px;
+    margin-bottom: 20px;
+  
+padding-top: 50px;
+}
+#bt{border-radius: 20px ;
+    padding-right: 150px;
+    height: 30px;
+    margin-top: 15px;  
+
+}
+.C{
+    margin-left: 550px;
+    margin-top: -150px;
+    width: 15px;
+    border-radius: 100px ;
+    padding: 2px ;
+
+
+}
+.D{
+    margin-top: 80px;
+    margin-left: 50px;
+    
+    
+
+    
+}
+.E{
+
+ margin-left: 50px;
+ margin-bottom: 10px;
+
+    
+}
+.F{
+    margin-left: 500px;
+    margin-top: -10px;
+    font-size: 25px;
+}
+.Z{
+    color: white;
+    background-color: black;
+    border: solid;
+    margin-top: -75px;
+    height: 100px;
+    
+
+
+}
+.G{
+    margin-left: 60px;
+}
+.H{
+    margin-left: 60px;
+    margin-top: 900px;
+}
+.I{
+    margin-left: 60px;
+    margin-top:2400px ;
+}
+.J{
+    margin-left: 60px;
+}
+.AG{
+    margin-left: 300px;
+    margin-top: -220px;
+}
+.BG{
+    color: white;
+    background-color: brown;
+    border-radius: 20px;
+}
+.o{
+  color:brown;  
+  
+}
+.DA{
+    margin-left: 550px;
+    margin-top: -348px;
+
+}
+.z{
+    border-radius: 20px;
+    background-color: yellow;
+}
+.QA{
+    color: brown;
+}
+.AZ{
+    margin-left: 120px;
+    margin-top: -33px;
+    color: yellow;
+}
+.ZP{
+    margin-left: 850px;
+    margin-top: -350px;
+}
+.oo{
+    border-radius: 20px;
+    color:white;
+    background-color: brown;
+}
+.OA{
+    color: brown;
+}
+.ZP{
+    margin-left:10 px;
+}
+.ZA{
+    margin-left: 300px;
+    margin-top: -250px;
+}
+.QL{
+  margin-left: 600px; 
+  margin-top: -348px; 
+  
+}
+.Y{
+    border-radius: 20px;
+    color: white;
+    background-color: brown;
+}
+.X{
+    color: brown;
+}
+.OA{
+    margin-left: 70%;
+    margin-top: -220%;
+
+    
+}
+.u{
+    margin-left: 900px;
+    margin-top: -82px;
+}
+.QV{margin-top: -120px;
+    margin-left: 300px;
+    
+}
+.VP{
+    margin-left: 570px;
+    margin-top: -280px;
+}
+.PV{
+    margin-left: 890px;
+    margin-top: -285px;
+}
+.Ak{
+    margin-left: 275px;
+    margin-top: -4px;
+    
+}
+.x{
+    border-radius: 20px;
+    color:white;
+    background-color: brown;
+}
+.xxq{
+  margin-left: 610px;  
+  margin-top: -300px;
+}
+.SQB{
+    margin-left: 900px;
+    margin-top: -350px;
+}
+.O2{
+    border-radius: 20px;
+    color: white;
+    background-color: brown;
+}
+.ZL{
+    margin-left: 260px;
+    margin-top: 100px;
+}
+.LL{
+    color: brown;
+}
+.pp{
+    border-radius: 20px;
+    color: black;
+    background-color: yellow;
+}
+.lp{
+    margin-left: 600px;
+    margin-top: -300px;
+}
+.ppq{
+    margin-left: 900px;
+    margin-top: -350px;
+}
+.lv{
+    border-radius: 20px;
+    color: black;
+    background-color: yellow;
+}
+.tp{
+    margin-left: 500px;
+    margin-top: 70px;
+    border-radius: 50px;
+
+}
+.R{
+    margin-left: 10px;
+    border-radius: 200px;
+    color: black;
+    background-color: yellow;
+}
+.M{
+    color: black;
+    background-color: yellow;
+}
+.uy{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.dy{
+    margin-left: 350px;
+    margin-top: -220px;
+}
+.xxz{
+    margin-left: 650px;
+    margin-top: -230px;
+}
+.mm{
+    margin-left: 950px;
+    margin-top: -250px;
+    
+}
+.vb{
+    background-color: blueviolet;
+    padding: 65px ;
+    padding-top: 25px;
+    margin-top: 30px;
+    
+
+}
+
+@media screen {
+    
+}
